@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "useDijkstra", "useDijkstra\useDijkstra.csproj", "{EB7C12E4-3833-49C3-A9C4-B485310F15EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shortest path", "shortest path\shortest path.csproj", "{33443F00-034F-42CB-87E8-0E26C0CE019A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7C12E4-3833-49C3-A9C4-B485310F15EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7C12E4-3833-49C3-A9C4-B485310F15EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7C12E4-3833-49C3-A9C4-B485310F15EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7C12E4-3833-49C3-A9C4-B485310F15EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33443F00-034F-42CB-87E8-0E26C0CE019A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33443F00-034F-42CB-87E8-0E26C0CE019A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33443F00-034F-42CB-87E8-0E26C0CE019A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33443F00-034F-42CB-87E8-0E26C0CE019A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
